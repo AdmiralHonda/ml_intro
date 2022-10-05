@@ -128,4 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# pipをインストールするツール
 get-pip.py
+
+# 仮想環境
+/lab_intro
+
+# バカでかいデータ
+/data
