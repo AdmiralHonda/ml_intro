@@ -136,3 +136,5 @@ get-pip.py
 
 # バカでかいデータ
 /data
+*.vec.pt
+wiki_wakati.txt
